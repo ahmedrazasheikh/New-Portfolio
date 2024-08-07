@@ -26,18 +26,17 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1rTV36sgduY_PP2gDGBOmT_yRkHkwODkK/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1uaK0CSdRYUVTZBfGzvUT4Q5ObOwddD44/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/ahmedrazasheikh",
+  github: "https://github.com/devdazzlee",
   linkedin: "https://www.linkedin.com/in/ahmed-raza-486b21259/",
   gmail: "ahmedrazagithub@gmail.com",
   facebook: "https://www.facebook.com/profile.php?id=61551648578522",
-  medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/19394908/muhammad-raza",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
